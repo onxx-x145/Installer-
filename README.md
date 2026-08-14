@@ -1,7 +1,8 @@
-# Installer
-
+# **Installer**
+# **setup Shizuka**
 **Created by:** onxx  
 <div align="center">
+<img width="500" height="500" alt="148560" src="https://github.com/user-attachments/assets/d30d4904-8904-4809-9411-80db669bc7a1" />
 
 <a href="YOUR_DOWNLOAD_LINK_HERE">
   <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C62828?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
